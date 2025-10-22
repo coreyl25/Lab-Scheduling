@@ -44,15 +44,8 @@ make
 ./scheduler
 ```
 
-The program will automatically run all test cases and display results for:
+This will run all test cases and display results for:
 - All Part 2 exercises (Exercise 1-5)
 - All Part 3 scheduler variations (FCFS, SJF, SRTF, RR, Priority)
 
-## Testing Instructions
-
-### Automated Testing
-The `main.cpp` file includes comprehensive test cases for all algorithms. Simply run the compiled program:
-```bash
-./scheduler
-```
 
